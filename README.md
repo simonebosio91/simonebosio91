@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Simone</h1>
 <h3 align="center">A freelance developer specialising in Angular frontend and .NET backend</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simonebosio91" alt="simonebosio91" /></a> </p>
-
 - 🔭 I’m currently working with ****Angular, .NET 6, .NET MAUI, NodeJS, Swift****
 
 - 👨‍💻 All of my projects are available at [https://www.webbdesigner.it](https://www.webbdesigner.it)
@@ -12,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/simone-bosio-15171934" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="simone-bosio-15171934" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/simone-bosio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="simone-bosio" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/5866755/simone-bosio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="simone-bosio" height="30" width="40" /></a>
 <a href="https://instagram.com/simobosio91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simobosio91" height="30" width="40" /></a>
 </p>
 
