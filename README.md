@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Simone</h1>
 <h3 align="center">A freelance developer specialising in Angular frontend and .NET backend</h3>
 
-- 🔭 I’m currently working with ****Angular, .NET 6, .NET MAUI, NodeJS, Swift****
+- 🔭 I’m currently working with ****Angular, .NET 8, .NET MAUI, NodeJS, Swift****
 
 - 👨‍💻 All of my projects are available at [https://www.webbdesigner.it](https://www.webbdesigner.it)
 
