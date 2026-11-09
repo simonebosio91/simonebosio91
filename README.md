@@ -34,7 +34,7 @@ I build the way modern teams will build: **AI agents as first-class teammates**.
 <p align="center">
   <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,nodejs,dotnet,cs,swift,androidstudio&theme=dark" alt="Angular, TypeScript, JavaScript, HTML, CSS, Node.js, .NET, C#, Swift, Android" />
   <br />
-  <img src="https://skillicons.dev/icons?i=aws,firebase,git,linux,postman,visualstudio&theme=dark" alt="AWS, Firebase, Git, Linux, Postman, Visual Studio" />
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,jenkins,git,linux,aws,mongodb,firebase,postman,visualstudio&theme=dark" alt="Docker, GitHub Actions, Jenkins, Git, Linux, AWS, MongoDB, Firebase, Postman, Visual Studio" />
 </p>
 
 <p align="center">
