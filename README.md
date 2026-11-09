@@ -1,20 +1,27 @@
 <h1 align="center">Hi 👋, I'm Simone</h1>
-<h3 align="center">A freelance developer specialising in Angular frontend and .NET backend</h3>
+<h3 align="center">Freelance developer · Developer Manager, Document Management Line of Business at smeup</h3>
+<p align="center">Angular frontend · .NET backend · Agentic software development</p>
 
-- 🔭 I’m currently working with ****Angular, .NET 8, .NET MAUI, NodeJS, Swift****
-
-- 👨‍💻 All of my projects are available at [https://www.webbdesigner.it](https://www.webbdesigner.it)
-
-- 📫 How to reach me **simonebosio@webbdesigner.it**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/simone-bosio-15171934" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="simone-bosio-15171934" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/5866755/simone-bosio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="simone-bosio" height="30" width="40" /></a>
-<a href="https://instagram.com/simobosio91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simobosio91" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.webbdesigner.it"><img src="https://img.shields.io/badge/Website-webbdesigner.it-0A66C2?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://linkedin.com/in/simone-bosio-15171934"><img src="https://img.shields.io/badge/LinkedIn-Simone%20Bosio-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://stackoverflow.com/users/5866755/simone-bosio"><img src="https://img.shields.io/badge/Stack%20Overflow-simone--bosio-F58025?style=flat-square&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
+  <a href="https://instagram.com/simobosio91"><img src="https://img.shields.io/badge/Instagram-simobosio91-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:simonebosio@webbdesigner.it"><img src="https://img.shields.io/badge/Email-simonebosio%40webbdesigner.it-555555?style=flat-square&logo=maildotru&logoColor=white" alt="Email" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## About me
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=simonebosio91&show_icons=true&locale=en&layout=compact" alt="simonebosio91" /></p>
+- 💼 Developer Manager of the Document Management Line of Business at **smeup**, and freelance developer
+- 🤖 Focused on **agentic software development**: AI coding agents, Claude Code, shared skills and MCP integrations for development teams
+- 🔭 Currently working with **Angular, .NET 8, .NET MAUI, Node.js and Swift**
+- 👨‍💻 My freelance projects are showcased at [webbdesigner.it](https://www.webbdesigner.it)
+- 📫 Reach me at [simonebosio@webbdesigner.it](mailto:simonebosio@webbdesigner.it)
+
+## Languages and tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,dotnet,cs,nodejs,swift,androidstudio,aws,firebase,git,linux,postman,visualstudio&perline=8" alt="Angular, TypeScript, JavaScript, HTML, CSS, .NET, C#, Node.js, Swift, Android, AWS, Firebase, Git, Linux, Postman, Visual Studio" />
+</p>
+
+**Also:** SQL Server · Oracle · Chart.js · Claude Code · MCP
